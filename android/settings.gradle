@@ -1,0 +1,3 @@
+rootProject.name = 'YABA'
+
+include ':app'
